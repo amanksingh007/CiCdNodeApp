@@ -1,0 +1,22 @@
+{
+  "name": "cicdnodeapp",
+  "version": "1.0.0",
+  "description": "Sample proj to test CI/CD with AWS.",
+  "main": ".index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amanksingh007/CiCdNodeApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amanksingh007/CiCdNodeApp/issues"
+  },
+  "homepage": "https://github.com/amanksingh007/CiCdNodeApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
